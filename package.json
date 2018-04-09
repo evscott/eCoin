@@ -1,7 +1,6 @@
 {
   "name": "ecoin",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll",
@@ -12,9 +11,18 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^22.4.3",
-    "nodemon": "^1.17.2"
+    "nodemon": "^1.17.3"
   },
   "dependencies": {
     "crypto-js": "^3.1.9-1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evscott/eCoin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evscott/eCoin/issues"
+  },
+  "homepage": "https://github.com/evscott/eCoin#readme",
+  "description": ""
 }
